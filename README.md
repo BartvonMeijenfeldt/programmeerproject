@@ -3,7 +3,7 @@
 
 #Idee
 
-![GitHub Logo](/Docs/SchetsGame.jpg)
+![](/Docs/SchetsGame.png)
 
 Het idee is om een balletje af te schieten op een vergelijkbare manier als je een vogel in angry birds afschiet en dan dat de bal in het rode vakje komt. De bal ketst af op de witte muren.
 
