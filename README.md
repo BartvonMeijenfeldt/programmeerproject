@@ -19,4 +19,4 @@ Ik vind dit lastig om in te schatten aangezien ik nog nooit met een game engine 
 
 #Complicaties
 
-Ik heb geen besef van de tijd die het kost om te leren omgaan met de game engine. Ik ben wel ervan overtuigd dat in de libgdx game engine het mogelijk zal zijn om te creëeren wat ik wil. Dus ik verwacht alleen problemen met de snelheid van mijn leren van de game engine, niet met de mogelijkheden.
+Ik heb geen besef van de tijd die het kost om te leren omgaan met de game engine. Ik ben wel ervan overtuigd dat in de libgdx game engine het mogelijk zal zijn om te creëeren wat ik wil. Dus ik verwacht alleen mogelijke problemen met de snelheid van mijn leren van de game engine, niet met de mogelijkheden.
